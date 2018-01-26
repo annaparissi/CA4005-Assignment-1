@@ -1,0 +1,9 @@
+Bibliography
+
+For this assignment, I used the following resources:
+
+- Answer by Chand Priyankara, 17/03/2014, "Simple Java AES encrypt/decrypt example" : https://stackoverflow.com/questions/15554296/simple-java-aes-encrypt-decrypt-example
+
+- Answer by Michael Pollmeier, 17/10/2016, "File to byte[] in Java" : https://stackoverflow.com/questions/858980/file-to-byte-in-java
+
+- Quickprogrammingtips.com, "How To Generate SHA256 Hash in Java" : https://www.quickprogrammingtips.com/java/how-to-generate-sha256-hash-in-java.html
